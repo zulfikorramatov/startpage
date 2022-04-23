@@ -1,7 +1,20 @@
 const lists = [
     {
         heading: 'dev',
-        links: [],
+        links: [
+            {
+                title: 'github',
+                url: 'https://www.github.com/',
+            },
+            {
+                title: 'codewars',
+                url: 'https://www.codewars.com/',
+            },
+            {
+                title: 'leetcode',
+                url: 'https://www.leetcode.com/',
+            },
+        ],
     },
     {
         heading: 'work',
@@ -18,6 +31,27 @@ const lists = [
             {
                 title: 'youtube',
                 url: 'https://www.youtube.com/',
+            },
+        ],
+    },
+    {
+        heading: 'reddit',
+        links: [
+            {
+                title: 'r/afkarena',
+                url: 'https://www.reddit.com/r/afkarena/',
+            },
+            {
+                title: 'r/unixporn',
+                url: 'https://www.reddit.com/r/unixporn/',
+            },
+            {
+                title: 'r/startpages',
+                url: 'https://www.reddit.com/r/startpages/',
+            },
+            {
+                title: 'r/linuxmemes',
+                url: 'https://www.reddit.com/r/linuxmemes/',
             },
         ],
     },
