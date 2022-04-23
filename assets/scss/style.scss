@@ -1,3 +1,5 @@
+@import url('../fonts/fonts.css');
+
 :root {
     --bg-color: #2e3440;
     --text-color: #d8dee9;
@@ -19,7 +21,7 @@ body {
 }
 
 body {
-    font-family: 'Fira Code', monospace;
+    font-family: 'Fira Mono';
     color: var(--text-color);
     background-color: var(--bg-color);
 }
