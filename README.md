@@ -1,4 +1,4 @@
-# Simple Nord startpage
+# Simple Nord Startpage
 
 ![Preview](assets/images/preview.png "Preview")
 
