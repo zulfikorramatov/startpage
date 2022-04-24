@@ -23,11 +23,44 @@ const lists = [
                 title: 'gmail',
                 url: 'https://www.gmail.com/',
             },
+            {
+                title: 'linkedin',
+                url: 'https://www.linkedin.com/',
+            },
+        ],
+    },
+    {
+        heading: 'news',
+        links: [
+            {
+                title: 'habr',
+                url: 'https://habr.com/ru/all/',
+            },
+            {
+                title: 'kod.ru',
+                url: 'https://kod.ru/',
+            },
+            {
+                title: 'tproger',
+                url: 'https://tproger.ru/',
+            },
+            {
+                title: 'proglib',
+                url: 'https://proglib.io/',
+            },
         ],
     },
     {
         heading: 'media',
         links: [
+            {
+                title: 'anime',
+                url: 'https://animego.org/',
+            },
+            {
+                title: 'manga',
+                url: 'https://mangalib.me/',
+            },
             {
                 title: 'youtube',
                 url: 'https://www.youtube.com/',
